@@ -19,5 +19,5 @@ Songs not found on Spotify (due to metadata differences or regional unavailabili
 WHY Use This?
 This tool is great for music lovers, nostalgia seekers, or developers wanting to explore web scraping and API integration. It's also a fun way to build curated playlists from memorable dates in your life, share throwback playlists with friends, or explore the evolution of music over time.
 
-🔐 Privacy
+Privacy
 All playlists created are private by default. You will be prompted to log into your Spotify account the first time you run the script. Authentication tokens are stored locally to avoid repeated logins.
